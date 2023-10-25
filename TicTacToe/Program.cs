@@ -46,6 +46,7 @@
 #pragma warning restore 8524
 
             Console.WriteLine(finalWords);
+            Console.ReadLine();
         }
 
     }
